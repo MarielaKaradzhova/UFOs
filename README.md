@@ -1,5 +1,5 @@
 # UFO Sightings
-![](https://github.com/MarielaKaradzhova/surfs_up/blob/main/resources/rm_img.png)
+![](https://github.com/MarielaKaradzhova/UFOs/blob/main/resources/rm_img.png)
 ### Tools
 - HTML
 - JavaScript ( Version ES6+)
