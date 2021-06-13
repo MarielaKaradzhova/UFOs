@@ -1,6 +1,7 @@
 # UFO Sightings
 ![](https://github.com/MarielaKaradzhova/UFOs/blob/main/resources/rm_img.png)
 ### Tools
+
 - HTML
 - JavaScript ( Version ES6+)
 - Bootstrap
