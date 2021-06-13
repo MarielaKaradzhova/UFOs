@@ -16,4 +16,4 @@ description of how to perform a search, with images.
 
 Two recommendations for further development:
  1.
- 2.
+ 2
