@@ -11,8 +11,11 @@ Create a table to organize UFO data that is stored as a JavaScript array, or lis
 ## Results
 Description of how to perform a search, with images:
 
- ![](https://github.com/MarielaKaradzhova/UFOs/blob/main/resources/ufo.png)
-description of how to perform a search, with images.
+
+ 
+
+
+
 
 ## Summary
 One drawback of the webpage pertains to the filter function on the code, where data is needed to filer values of each column to display values using the html code. This method would benefit an analyst who is familiar with the data but it would not be useful for someone who is trying to view the data (e.g. Stakeholder or client). The data should be visualized in a more practical way.
